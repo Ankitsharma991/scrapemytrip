@@ -1,7 +1,9 @@
-import Image from "next/image";
+import Try from "./Try";
 
 export default function Home() {
   return (
-   <></>
+    <>
+      <Try />
+    </>
   );
 }
